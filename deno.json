@@ -1,8 +1,10 @@
 {
   "imports": {
-    "deco-sites/mintcosmeticos/": "./",
+    "deco-sites/hackathon-teste/": "./",
 
-    "deco-sites/mintcosmeticos/": "./",
+    "deco-sites/hackathon-teste/": "./",
+
+    "deco-sites/hackathon-teste/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
     "deco-sites/std/": "https://denopkg.com/deco-sites/std@1.22.11/",
@@ -28,7 +30,7 @@
     "check": "deno fmt && deno lint && deno check dev.ts main.ts",
     "install": "deno eval 'import \"deco/scripts/apps/install.ts\"'",
     "uninstall": "deno eval 'import \"deco/scripts/apps/uninstall.ts\"'",
-    "bundle": "deno eval 'import \"deco/scripts/apps/bundle.ts\"' deco-sites/mintcosmeticos",
+    "bundle": "deno eval 'import \"deco/scripts/apps/bundle.ts\"' deco-sites/hackathon-teste",
     "build": "deno run -A dev.ts build",
     "preview": "deno run -A main.ts"
   },

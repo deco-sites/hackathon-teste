@@ -45,57 +45,57 @@ import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
 const manifest = {
   "sections": {
-    "deco-sites/mintcosmeticos/sections/Category/CategoryBanner.tsx": $$$$$$0,
-    "deco-sites/mintcosmeticos/sections/Category/CategoryBreadcrumb.tsx":
+    "deco-sites/hackathon-teste/sections/Category/CategoryBanner.tsx": $$$$$$0,
+    "deco-sites/hackathon-teste/sections/Category/CategoryBreadcrumb.tsx":
       $$$$$$1,
-    "deco-sites/mintcosmeticos/sections/Category/CategoryList.tsx": $$$$$$2,
-    "deco-sites/mintcosmeticos/sections/Category/CategoryText.tsx": $$$$$$3,
-    "deco-sites/mintcosmeticos/sections/Container.tsx": $$$$$$4,
-    "deco-sites/mintcosmeticos/sections/Content/Benefits.tsx": $$$$$$5,
-    "deco-sites/mintcosmeticos/sections/Content/CopyRight.tsx": $$$$$$6,
-    "deco-sites/mintcosmeticos/sections/Content/Faq.tsx": $$$$$$7,
-    "deco-sites/mintcosmeticos/sections/Content/InfoCard.tsx": $$$$$$8,
-    "deco-sites/mintcosmeticos/sections/Content/Logos.tsx": $$$$$$9,
-    "deco-sites/mintcosmeticos/sections/Content/Testimonials.tsx": $$$$$$10,
-    "deco-sites/mintcosmeticos/sections/DesignSystem/DesignSystem.tsx": $$$$$$11,
-    "deco-sites/mintcosmeticos/sections/Footer/Footer.tsx": $$$$$$12,
-    "deco-sites/mintcosmeticos/sections/Header/HeaderLayout.tsx": $$$$$$13,
-    "deco-sites/mintcosmeticos/sections/Header/TopNavBar.tsx": $$$$$$14,
-    "deco-sites/mintcosmeticos/sections/Images/BannerGrid.tsx": $$$$$$15,
-    "deco-sites/mintcosmeticos/sections/Images/Carousel.tsx": $$$$$$16,
-    "deco-sites/mintcosmeticos/sections/Images/ImageGallery.tsx": $$$$$$17,
-    "deco-sites/mintcosmeticos/sections/Images/ShoppableBanner.tsx": $$$$$$18,
-    "deco-sites/mintcosmeticos/sections/Institutional/AccordionsContent.tsx":
+    "deco-sites/hackathon-teste/sections/Category/CategoryList.tsx": $$$$$$2,
+    "deco-sites/hackathon-teste/sections/Category/CategoryText.tsx": $$$$$$3,
+    "deco-sites/hackathon-teste/sections/Container.tsx": $$$$$$4,
+    "deco-sites/hackathon-teste/sections/Content/Benefits.tsx": $$$$$$5,
+    "deco-sites/hackathon-teste/sections/Content/CopyRight.tsx": $$$$$$6,
+    "deco-sites/hackathon-teste/sections/Content/Faq.tsx": $$$$$$7,
+    "deco-sites/hackathon-teste/sections/Content/InfoCard.tsx": $$$$$$8,
+    "deco-sites/hackathon-teste/sections/Content/Logos.tsx": $$$$$$9,
+    "deco-sites/hackathon-teste/sections/Content/Testimonials.tsx": $$$$$$10,
+    "deco-sites/hackathon-teste/sections/DesignSystem/DesignSystem.tsx": $$$$$$11,
+    "deco-sites/hackathon-teste/sections/Footer/Footer.tsx": $$$$$$12,
+    "deco-sites/hackathon-teste/sections/Header/HeaderLayout.tsx": $$$$$$13,
+    "deco-sites/hackathon-teste/sections/Header/TopNavBar.tsx": $$$$$$14,
+    "deco-sites/hackathon-teste/sections/Images/BannerGrid.tsx": $$$$$$15,
+    "deco-sites/hackathon-teste/sections/Images/Carousel.tsx": $$$$$$16,
+    "deco-sites/hackathon-teste/sections/Images/ImageGallery.tsx": $$$$$$17,
+    "deco-sites/hackathon-teste/sections/Images/ShoppableBanner.tsx": $$$$$$18,
+    "deco-sites/hackathon-teste/sections/Institutional/AccordionsContent.tsx":
       $$$$$$19,
-    "deco-sites/mintcosmeticos/sections/Institutional/AsideMenu.tsx": $$$$$$20,
-    "deco-sites/mintcosmeticos/sections/Institutional/CardsContent.tsx":
+    "deco-sites/hackathon-teste/sections/Institutional/AsideMenu.tsx": $$$$$$20,
+    "deco-sites/hackathon-teste/sections/Institutional/CardsContent.tsx":
       $$$$$$21,
-    "deco-sites/mintcosmeticos/sections/Institutional/ContactForm.tsx": $$$$$$22,
-    "deco-sites/mintcosmeticos/sections/Institutional/InstitutionalPage.tsx":
+    "deco-sites/hackathon-teste/sections/Institutional/ContactForm.tsx": $$$$$$22,
+    "deco-sites/hackathon-teste/sections/Institutional/InstitutionalPage.tsx":
       $$$$$$23,
-    "deco-sites/mintcosmeticos/sections/Institutional/TextContent.tsx": $$$$$$24,
-    "deco-sites/mintcosmeticos/sections/Links/LinkTree.tsx": $$$$$$25,
-    "deco-sites/mintcosmeticos/sections/Links/Shortcuts.tsx": $$$$$$26,
-    "deco-sites/mintcosmeticos/sections/Miscellaneous/CampaignTimer.tsx":
+    "deco-sites/hackathon-teste/sections/Institutional/TextContent.tsx": $$$$$$24,
+    "deco-sites/hackathon-teste/sections/Links/LinkTree.tsx": $$$$$$25,
+    "deco-sites/hackathon-teste/sections/Links/Shortcuts.tsx": $$$$$$26,
+    "deco-sites/hackathon-teste/sections/Miscellaneous/CampaignTimer.tsx":
       $$$$$$27,
-    "deco-sites/mintcosmeticos/sections/Miscellaneous/CookieConsent.tsx":
+    "deco-sites/hackathon-teste/sections/Miscellaneous/CookieConsent.tsx":
       $$$$$$28,
-    "deco-sites/mintcosmeticos/sections/Miscellaneous/NotFound.tsx": $$$$$$29,
-    "deco-sites/mintcosmeticos/sections/Newsletter/Newsletter.tsx": $$$$$$30,
-    "deco-sites/mintcosmeticos/sections/Newsletter/NewsletterModal.tsx":
+    "deco-sites/hackathon-teste/sections/Miscellaneous/NotFound.tsx": $$$$$$29,
+    "deco-sites/hackathon-teste/sections/Newsletter/Newsletter.tsx": $$$$$$30,
+    "deco-sites/hackathon-teste/sections/Newsletter/NewsletterModal.tsx":
       $$$$$$31,
-    "deco-sites/mintcosmeticos/sections/Product/ProductDetails.tsx": $$$$$$32,
-    "deco-sites/mintcosmeticos/sections/Product/ProductShelf.tsx": $$$$$$33,
-    "deco-sites/mintcosmeticos/sections/Product/SearchResult.tsx": $$$$$$34,
-    "deco-sites/mintcosmeticos/sections/Product/Wishlist.tsx": $$$$$$35,
-    "deco-sites/mintcosmeticos/sections/Social/InstagramPosts.tsx": $$$$$$36,
-    "deco-sites/mintcosmeticos/sections/Social/WhatsApp.tsx": $$$$$$37,
+    "deco-sites/hackathon-teste/sections/Product/ProductDetails.tsx": $$$$$$32,
+    "deco-sites/hackathon-teste/sections/Product/ProductShelf.tsx": $$$$$$33,
+    "deco-sites/hackathon-teste/sections/Product/SearchResult.tsx": $$$$$$34,
+    "deco-sites/hackathon-teste/sections/Product/Wishlist.tsx": $$$$$$35,
+    "deco-sites/hackathon-teste/sections/Social/InstagramPosts.tsx": $$$$$$36,
+    "deco-sites/hackathon-teste/sections/Social/WhatsApp.tsx": $$$$$$37,
   },
   "apps": {
-    "deco-sites/mintcosmeticos/apps/decohub.ts": $$$$$$$$$$$0,
-    "deco-sites/mintcosmeticos/apps/site.ts": $$$$$$$$$$$1,
+    "deco-sites/hackathon-teste/apps/decohub.ts": $$$$$$$$$$$0,
+    "deco-sites/hackathon-teste/apps/site.ts": $$$$$$$$$$$1,
   },
-  "name": "deco-sites/mintcosmeticos",
+  "name": "deco-sites/hackathon-teste",
   "baseUrl": import.meta.url,
 };
 
